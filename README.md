@@ -1,0 +1,2 @@
+# combine_data
+This repository is intended as an example containing templates and good practices for creating a code for data retrieval and combination. This repository is based on SQL and would provide a one stop query for any dataset regarding of type, format or length to be extracted and loaded into any BI tool. The aim is to bring together tools and services available on other system, and offer a one stop tool that can connect and be compatible to any data set for quick retrieval and analysis.
